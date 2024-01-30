@@ -1,0 +1,45 @@
+head{
+    padding: 0%;
+}
+a{
+    text-decoration: none;
+    color: azure;
+    margin: 0 11px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+background-color: rgb(129, 18, 163);
+}
+
+body{
+    background-color: rgba(91, 82, 139, 0.473);
+}
+ 
+nav a:hover{
+    color: black;
+}
+h1 img{
+    height: 4%;
+    width: 7%;
+}
+
+ body h3{
+    text-align: center;
+}
+abbr{
+    text-decoration: none;
+}
+p{
+    text-align: justify;
+}
+
+marquee img {
+    height: 28px;
+    width: 60px;
+    vertical-align: middle;
+}
+head h1 img{
+vertical-align: text-top;
+}
